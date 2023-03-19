@@ -1,3 +1,3 @@
-/Users/zhoujunl/CLionProjects/open_gl_install/cmake-build-debug/CMakeFiles/OpenGL.dir
-/Users/zhoujunl/CLionProjects/open_gl_install/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zhoujunl/CLionProjects/open_gl_install/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhoujunl/CLionProjects/Assignment1 - 2/cmake-build-debug/CMakeFiles/OpenGL.dir
+/Users/zhoujunl/CLionProjects/Assignment1 - 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhoujunl/CLionProjects/Assignment1 - 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
